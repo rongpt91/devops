@@ -2,6 +2,11 @@ package com.sample.devops.service;
 
 import org.springframework.stereotype.Service;
 
+/**
+ * Service for hello world
+ * @author rohangupta
+ *
+ */
 @Service("helloWorldService")
 public class HelloWorldService {
  
